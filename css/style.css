@@ -1,0 +1,29 @@
+h1,
+h2 {
+  font-family: "Veranda";
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h1 {
+  color: white;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  color: aquamarine;
+}
+
+h2 {
+  font-size: 16px;
+}
